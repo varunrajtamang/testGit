@@ -1,1 +1,1 @@
-this a new git test for test
+i changed this file called text 
